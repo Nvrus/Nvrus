@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rustam
-- 👀 I’m interested in machineTools, web, back and frntend
+- 👀 I’m interested in machineTools, web, backend and frontend. (Now i'm learning to coding on Python)
 - 🌱 I’m currently learning and will be a PhD
 - 💞️ I’m looking to collaborate on web(i'll be a junior)
 - 📫 How to reach me e-mail:yusupov7@tpu.ru
